@@ -1,0 +1,4 @@
+D:/labs/5semestr/SystemCourse/Kliuchny_Mykhailo_IO-21/SystemCourse-lab2/cmake-build-debug/CMakeFiles/calculator.dir
+D:/labs/5semestr/SystemCourse/Kliuchny_Mykhailo_IO-21/SystemCourse-lab2/cmake-build-debug/CMakeFiles/SystemPrograming_Lab2.dir
+D:/labs/5semestr/SystemCourse/Kliuchny_Mykhailo_IO-21/SystemCourse-lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/labs/5semestr/SystemCourse/Kliuchny_Mykhailo_IO-21/SystemCourse-lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
